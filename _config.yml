@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'FaYaee'
+title: 'FaYaee的个人博客'
 description: 'none'
 keyword: 'c/c++ '
 url: '' # your host
@@ -9,8 +9,8 @@ baseurl: ''
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  主页: '/'
+  标签: '/tags.html'
 
 # Footer
 footer:
@@ -77,4 +77,6 @@ RSS: false
 permalink: /:year/:month/:day/:title.html
 
 # Plugins
-plugins: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
+
+gems: [jekyll-paginate]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FaYaee的个人博客</title>
+    <description>none</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 15 Mar 2019 22:21:13 +0800</pubDate>
+    <lastBuildDate>Fri, 15 Mar 2019 22:21:13 +0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>搭建我的github blog</title>
+        <description>&lt;p&gt;#&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Mar 2019 18:31:28 +0800</pubDate>
+        <link>/2019/03/15/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84github-blog.html</link>
+        <guid isPermaLink="true">/2019/03/15/%E6%90%AD%E5%BB%BA%E6%88%91%E7%9A%84github-blog.html</guid>
+        
+        <category>github</category>
+        
+        <category>blog</category>
+        
+        
+        <category>编程</category>
+        
+      </item>
+    
+  </channel>
+</rss>

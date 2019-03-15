@@ -9,6 +9,6 @@
  </g>
  <g>
   <title>Layer 1</title>
-  <text font-style="italic" font-weight="bold" transform="matrix(5.68919, 0, 0, 1.96853, -415.104, -33.5178)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="42.063469" x="73.249915" stroke-width="0" stroke="#619E73" fill="#293414">FaYaee</text>
+  <text font-style="italic" font-weight="bold" transform="matrix(5.68919, 0, 0, 1.96853, -415.104, -33.5178)" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="42.063469" x="73.249915" stroke-width="0" stroke="#000" fill="#ffffff">FaYaee</text>
  </g>
 </svg>
