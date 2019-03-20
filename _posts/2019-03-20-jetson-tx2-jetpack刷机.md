@@ -22,5 +22,7 @@ chmod +x ./JetPack-L4T-3.3-linux-x64_b39.run
 
 ```
 
-![](assets/img/jetpack/jetpack-run.png)
+![](/assets/img/jetpack/jetpack-run.png)
+
+
 
