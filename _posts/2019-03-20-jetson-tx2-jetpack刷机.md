@@ -3,7 +3,7 @@ layout: post
 title: "Jetson Tx2 Jetpack刷机"
 subtitle: 'TX2刷机'
 date: 2019-03-15 10:31:28
-cover: 'assets/img/hreo.jpg'
+cover: '/assets/img/jetpack/jetpack-select-dev-env.png'
 categories: 编程
 tags: Tx2 Jetpack
 ---
@@ -15,7 +15,6 @@ tags: Tx2 Jetpack
 + 登录成功后即可去下载Jetpack包[点击这里下载JetPack3.3](https://developer.nvidia.com/embedded/downloads#?tx=$libraries,cuda,cudnn,visionworks,opencv4tegra)
 + 下载完成后切换到下载目录执行下面命令
 
-
 ```
 chmod +x ./JetPack-L4T-3.3-linux-x64_b39.run
 ./JetPack-L4T-3.3-linux-x64_b39.run 
@@ -23,6 +22,10 @@ chmod +x ./JetPack-L4T-3.3-linux-x64_b39.run
 ```
 
 ![](/assets/img/jetpack/jetpack-run.png)
-
-
+成功运行后弹出安装界面，点击Next继续
+![](/assets/img/jetpack/jetpack-installer.png)
+选择需要安装文件夹和下载资源存放的文件夹
+![](/assets/img/jetpack/jetpack-configuration.png)
+选择TX2
+![](/assets/img/jetpack/jetpack-select-dev-env.png)
 
