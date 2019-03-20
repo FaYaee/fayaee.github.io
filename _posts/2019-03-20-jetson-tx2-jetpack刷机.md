@@ -39,13 +39,15 @@ chmod +x ./JetPack-L4T-3.3-linux-x64_b39.run
 选择网卡接口默认即可
 ![](/assets/img/jetpack/jetpack-network-interface.png)
 成功后会弹出界面开始刷机
-![](/assets/img/jetpack/![](/assets/img/jetpack/jetpack-network-interface.png))
+![](/assets/img/jetpack/jetpack-installation-console.png)
 #### TX2进入恢复模式
 + TX2完全掉电，关机后拔掉电源一会儿
 + 通过USB连接宿主机与TX2
 + TX2插上电源，按开机建后长按恢复键2S,点按复位键后释放，在释放恢复键即可进入恢复模式，此时TX2屏幕无任何输出
 + 在宿主机刷机界面按回车即可开始刷机...(等待刷机完成)
 
+刷机完成
+![](/assets/img/jetpack/jetpack-install-successfully.png)
 
 
 
